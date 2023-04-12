@@ -2,9 +2,9 @@
 
 ## About
 
-DIMA-OS is a linux sorta distro that is being developed by currently, 3 awesome people. Any changes or anything you want to add can be freely done by pull requesting.
+DIMA-OS is a Linux distribution that is currently being developed by 3 awesome people. Any changes or anything you want to add can be freely done by pull requesting.
 
-## Why
+## Why Do This?
 
-For absolutely fun. (sorry for spelling if that wasnt correct) We love coding fun stuff, develop projects, script... etc.
+Just for fun, and to challenge ourselves. We love coding fun stuff, and developing projects, scripts... etc.
 
